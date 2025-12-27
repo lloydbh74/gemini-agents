@@ -77,6 +77,7 @@ Welcome to the central registry for all task-specific agents within the Antigrav
 
 ## 🔬 Research
 - **[Best Practice Finder](file:///Users/lloyd/Sync/App%20Business%20Agents%20Docs/agents/research/best-practice-finder.md)**: Industry standards and coding conventions.
+- **[Community Problem Hunter (2026)](file:///Users/lloyd/Sync/App%20Business%20Agents%20Docs/agents/research/community-problem-hunter.md)**: Proactive SaaS idea mining from Reddit and social platforms.
 - **[Library Evaluator](file:///Users/lloyd/Sync/App%20Business%20Agents%20Docs/agents/research/library-evaluator.md)**: Open-source dependency analysis.
 - **[Solution Architect](file:///Users/lloyd/Sync/App%20Business%20Agents%20Docs/agents/research/solution-architect.md)**: High-level problem solving and pattern matching.
 - **[Technology Researcher](file:///Users/lloyd/Sync/App%20Business%20Agents%20Docs/agents/research/technology-researcher.md)**: Deep dives into new tools and APIs.
